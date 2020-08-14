@@ -6,3 +6,5 @@ You can check out my live project [here](https://cerenpaja.github.io/Michael-Sco
 
 ## Screenshot
 <img src="michael.png" width="700">
+
+
