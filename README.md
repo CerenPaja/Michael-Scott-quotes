@@ -5,4 +5,4 @@ Responsive and mobile friendly project, built with HTML5, CSS3 and Javascript. G
 You can check out my live project [here](https://cerenpaja.github.io/My-Quote-Generator)
 
 ## Screenshot
-<img src="quotegenerator.png" width="700">
+<img src="michael.png" width="700">
